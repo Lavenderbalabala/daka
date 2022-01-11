@@ -11,8 +11,8 @@ REPORT_API = 'https://app.bupt.edu.cn/ncov/wap/default/save'
 # 当今日没有填报时，在https://app.bupt.edu.cn/ncov/wap/default/index下进行填报，
 # 全部填完，不要提交，f12打开控制台，在Console页面下输入代码 console.log(vm.info) 就会得到以下信息，之后每天就默认填以下信息
 INFO = r"""{
-        "address":"北京市海淀区北太平庄街道北京邮电大学计算机学院北京邮电大学海淀校区",
-        "area":"北京市  海淀区",
+        "address":"北京市房山区稻田一路1号院",
+        "area":"北京市  房山区",
         "bztcyy":"",
         "city":"北京市",
         "csmjry":"0",
